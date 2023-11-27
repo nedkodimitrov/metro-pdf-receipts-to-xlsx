@@ -7,4 +7,5 @@ Convert all pdfs in the current folder
 
 `python custom_pdf_to_xlsx.py`
 Customized for the needs of a friend  
-Convert all pdfs from pdfs/ in a new folder xlsx/
+Convert all pdfs from pdfs/ in a new folder xlsx/  
+Split each pdf into multiple xlsx with max 10 rows
